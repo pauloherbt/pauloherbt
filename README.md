@@ -1,6 +1,7 @@
-### Hi there 👋
-My name is Paulo Herbert, I'm majoring in computer engineering and currently learning backend development.
-I don't have a favorite programming language, so I can learn any technology according to the needs of the project.
+### Hi there, welcome to my GitHub profile 👋
++ My name is Paulo Herbert, but everybody calls me "peaga"
++ I'm majoring in computer engineering and am currently learning backend development.
++ I don't have a favorite programming language so I can learn any technology according to the project's needs.<br>
 <div>
 <a href="https://github.com/pauloherbt">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloherbt&layout=compact&langs_count=7&theme=dracula"/>
