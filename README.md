@@ -1,6 +1,11 @@
 ### Hi there 👋
 My name is Paulo Herbert, I'm majoring in computer engineering and currently learning backend development.
 I don't have a favorite programming language, so I can learn any technology according to the needs of the project.
+<div>
+<a href="https://github.com/pauloherbt">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloherbt&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloherbt&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+</div>
 <!--
 **pauloherbt/pauloherbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
