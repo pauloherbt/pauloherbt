@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Paulo Herbert, I'm majoring in computer engineering and currently learning backend development.
+I don't have a favorite programming language, so I can learn any technology according to the needs of the project.
 <!--
 **pauloherbt/pauloherbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
